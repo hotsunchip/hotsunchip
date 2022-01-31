@@ -52,10 +52,12 @@ Here are some ideas to get you started:
 <div align="center">
   I'm Designer & Developer, who design better future by developing CS.
 </div>
+<br>
 <div align="center">
   <p>🖥 Hotsunchip as Developer 🖥</p>
   <a href="https://github.com/hotsunchip"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhotsunchip&count_bg=%23181717&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=true"/></a>
 </div>
+<br>
 <div align="center">
   <p>🎨 Hotsunchip as Designer 🎨</p>
   <a href="https://taeyangyoon.notion.site/PORTFOLIO-f0c3c4bdd5734d0ea98150c85b608dc5"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ftaeyangyoon.notion.site%2FPORTFOLIO-f0c3c4bdd5734d0ea98150c85b608dc5&count_bg=%23181717&title_bg=%23555555&icon=notion.svg&icon_color=%23E7E7E7&title=notion&edge_flat=true"/></a>
