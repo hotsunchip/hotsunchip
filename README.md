@@ -64,14 +64,15 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div align="center">
-  <p>🖥 Hotsunchip as Developer 🖥</p>
-  <a href="https://github.com/hotsunchip"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhotsunchip&count_bg=%23181717&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=true"/></a>
-  <br>
-  <a href="https://hotsunchip.tistory.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhotsunchip.tistory.com&count_bg=%23181717&title_bg=%23555555&icon=blogger.svg&icon_color=%23E7E7E7&title=blog&edge_flat=true"/></a>
+  <a href="https://solar-system-107.notion.site/PORTFOLIO-9cfe5641db054b23bd3b4988a288170c"><img src="https://img.shields.io/badge/resume-3B66BC?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://github.com/hotsunchip"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://hotsunchip.tistory.com"><img src="https://img.shields.io/badge/-eb531f?style=for-the-badge&logo=tistory&logoColor=white"></a>
 </div>
 <br>
 <div align="center">
-  <p>🎨 Hotsunchip as Designer 🎨</p>
-  <a href="https://solar-system-107.notion.site/PORTFOLIO-9cfe5641db054b23bd3b4988a288170c"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ftaeyangyoon.notion.site%2FPORTFOLIO-f0c3c4bdd5734d0ea98150c85b608dc5&count_bg=%23181717&title_bg=%23555555&icon=notion.svg&icon_color=%23E7E7E7&title=notion&edge_flat=true"/></a>
+  <a href="https://solved.ac/hotsunchip">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hotsunchip" alt="Solved.ac profile" />
+  </a>
+  <img src="http://mazandi.herokuapp.com/api?handle=hotsunchip&theme=warm" alt="mazandi profile" />
 </div>
 
